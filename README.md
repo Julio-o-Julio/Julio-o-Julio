@@ -1,10 +1,9 @@
-- Olá, sou o @Julio-o-Julio
-- Estou interessado em participar de projetos de programação
-- Estou aprendendo atualmente JavaScript
-- Estou procurando colaborar projetos pequenos (por enquanto)
-- Como me encontrar: Twitter @Julio_147M
+<div align="center">
+  <a href="https://github.com/Julio-o-Julio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-o-Julio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-o-Julio&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<!---
-Julio-o-Julio/Julio-o-Julio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ##
+  
+  ![Snake animation](https://github.com/Julio-o-Julio/Julio-o-Julio/blob/output/github-contribution-grid-snake.svg)

@@ -3,7 +3,7 @@ Hi, I'm Julio Souza and I'm learning to program.
 
 Graduating in Software Engineering at UFMS.
 
--------------------------------------------------------
+##
 
 Olá, sou o Julio Souza e estou aprendendo a programar.
 

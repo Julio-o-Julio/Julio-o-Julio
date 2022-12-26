@@ -1,5 +1,5 @@
 
-Olá, sou o Julio Souza e estou aprendendo a programar.
+Olá, sou o Julio Souza e sou Desenvolvedor Back-end.
 
 Graduando de Engenharia de Software na UFMS.
 
